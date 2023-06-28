@@ -1,0 +1,4 @@
+archives
+pytest
+pytest-cov
+tox

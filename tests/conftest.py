@@ -1,0 +1,3 @@
+"""
+gamble pytest configuration
+"""
